@@ -10,4 +10,9 @@ Profissional em transição de carreira, cursando profissionalizante em Ciência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=Supermercado.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouvea80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
