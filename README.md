@@ -9,7 +9,7 @@ Profissional em transição de carreira, cursando profissionalizante em Ciência
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=Supermercado.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=modulo1.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=modulo1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
