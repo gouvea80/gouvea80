@@ -17,6 +17,14 @@ Profissional em transição de carreira, cursando profissionalizante em Ciência
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouvea80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Habilidades
+
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+
+
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/joao-gouvea/)
