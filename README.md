@@ -11,6 +11,7 @@ Profissional em transição de carreira, cursando profissionalizante em Ciência
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=Supermercado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=modulo1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=Cria-o-de-dashboard-de-Vendas-de-Games&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gouvea80&repo=Pr-Processamento-dos-Dados---A-primeira-etapa-Pr-Modelagem&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
